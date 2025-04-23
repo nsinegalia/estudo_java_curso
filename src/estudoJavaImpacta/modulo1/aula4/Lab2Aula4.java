@@ -1,4 +1,4 @@
-package estudoJavaImpacta;
+package estudoJavaImpacta.modulo1.aula4;
 
 import java.util.Scanner;
 

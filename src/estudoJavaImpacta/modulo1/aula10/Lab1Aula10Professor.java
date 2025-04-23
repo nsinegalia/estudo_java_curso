@@ -1,4 +1,4 @@
-package estudoJavaImpacta;
+package estudoJavaImpacta.modulo1.aula10;
 
 public class Lab1Aula10Professor extends Lab1Aula10Pessoa{
     private float salario;

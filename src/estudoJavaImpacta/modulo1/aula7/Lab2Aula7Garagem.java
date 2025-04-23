@@ -1,4 +1,4 @@
-package estudoJavaImpacta;
+package estudoJavaImpacta.modulo1.aula7;
 
 public class Lab2Aula7Garagem {
 

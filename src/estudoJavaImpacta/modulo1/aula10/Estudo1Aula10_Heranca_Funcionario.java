@@ -1,4 +1,4 @@
-package estudoJavaImpacta;
+package estudoJavaImpacta.modulo1.aula10;
 
 public class Estudo1Aula10_Heranca_Funcionario {
 

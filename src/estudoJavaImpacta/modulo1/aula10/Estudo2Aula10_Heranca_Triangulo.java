@@ -1,4 +1,4 @@
-package estudoJavaImpacta;
+package estudoJavaImpacta.modulo1.aula10;
 
 public class Estudo2Aula10_Heranca_Triangulo extends Estudo2Aula10_Heranca_FiguraGeometrica {
 

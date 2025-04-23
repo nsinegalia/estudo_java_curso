@@ -1,4 +1,4 @@
-package estudoJavaImpacta;
+package estudoJavaImpacta.modulo1.aula8;
 
 public class Lab1Aula8TesteCadastro {
     public static void main (String [] args){

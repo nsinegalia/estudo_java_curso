@@ -1,8 +1,7 @@
-package estudoJavaImpacta;
+package estudoJavaImpacta.modulo1.aula5;
 
 import java.time.Duration;
 import java.time.Instant;
-import java.util.Scanner;
 
 public class Lab1Aula5 {
     public static void main(String[] args) {

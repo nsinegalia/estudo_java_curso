@@ -1,4 +1,4 @@
-package estudoJavaImpacta;
+package estudoJavaImpacta.modulo1.aula10;
 
 public class Lab1Aula10Aluno extends Lab1Aula10Pessoa {
 
